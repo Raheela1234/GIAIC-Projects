@@ -1,0 +1,23 @@
+[
+    {
+        "Title": "Atomic Habits",
+        "Author": "James Clear",
+        "Year": 2018,
+        "Genre": "Self-help",
+        "Read": true
+    },
+    {
+        "Title": "Clean Code",
+        "Author": "Robert C. Martin",
+        "Year": 2008,
+        "Genre": "Programming",
+        "Read": true
+    },
+    {
+        "Title": "The Alchemist",
+        "Author": "Paulo Coelo",
+        "Year": 1988,
+        "Genre": "Fiction",
+        "Read": true
+    }
+]
